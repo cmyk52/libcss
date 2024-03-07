@@ -1,0 +1,9 @@
+.form{
+    width: 500px;
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #121212;
+    padding: 1rem;
+    color: white;
+    margin: autonpm;
+}

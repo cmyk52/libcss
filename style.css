@@ -1,0 +1,156 @@
+/*SIZE AUTO*/
+
+/* Size (Auto) */
+
+
+.w-auto { width: auto; } 
+.h-auto { height: auto; } 
+.w-max { width: max-content; } 
+.h-max { height: max-content; } 
+.w-min { width: min-content; } 
+.h-min { height: min-content; }
+
+/*WIDTH SIZE*/
+
+/* Widths using percentage values */
+.w100 { width: 100%; }  
+.w90  { width: 90%; }
+.w80  { width: 80%; }
+.w70  { width: 70%; }
+.w60  { width: 60%; }
+.w50  { width: 50%; }
+.w40  { width: 40%; }
+.w30  { width: 30%; }
+.w20  { width: 20%; }
+.w10  { width: 10%; }
+
+/* Optional: Widths using pixel values (adjust unit as needed) */
+.px100 { width: 100px; }
+.px90  { width: 90px; }
+.px80  { width: 80px; }
+.px70  { width: 70px; }
+.px60  { width: 60px; }
+.px50  { width: 50px; }
+.px40  { width: 40px; }
+.px30  { width: 30px; }
+.px20  { width: 20px; }
+.px10  { width: 10px; }
+
+
+/*HEIGHT SIZE*/
+
+/* Heights using percentage values */
+.h100 { height: 100%; }  // "h" prefix for heights
+.h90  { height: 90%; }
+.h80  { height: 80%; }
+.h70  { height: 70%; }
+.h60  { height: 60%; }
+.h50  { height: 50%; }
+.h40  { height: 40%; }
+.h30  { height: 30%; }
+.h20  { height: 20%; }
+.h10  { height: 10%; }
+
+/* Optional: Heights using pixel values (adjust unit as needed) */
+.px100 { height: 100px; }  
+.px90  { height: 90px; }
+.px80  { height: 80px; }
+.px70  { height: 70px; }
+.px60  { height: 60px; }
+.px50  { height: 50px; }
+.px40  { height: 40px; }
+.px30  { height: 30px; }
+.px20  { height: 20px; }
+.px10  { height: 10px; }
+
+
+
+/* VIEW PORT */
+
+.vw100 { width: 100vw; }
+.vw90  { width: 90vw; }
+.vw80  { width: 80vw; }
+.vw70  { width: 70vw; }
+.vw60  { width: 60vw; }
+.vw50  { width: 50vw; }
+.vw40  { width: 40vw; }
+.vw30  { width: 30vw; }
+.vw20  { width: 20vw; }
+.vw10  { width: 10vw; }
+
+
+.vh100 { height: 100vh; }
+.vh90  { height: 90vh; }
+.vh80  { height: 80vh; }
+.vh70  { height: 70vh; }
+.vh60  { height: 60vh; }
+.vh50  { height: 50vh; }
+.vh40  { height: 40vh; }
+.vh30  { height: 30vh; }
+.vh20  { height: 20vh; }
+.vh10  { height: 10vh; }
+
+/*FONT SIZE*/
+
+/* Font Sizes (rem) */
+.fontsize-1rem { font-size: 1rem; }
+.fontsize-2rem { font-size: 2rem; }
+.fontsize-3rem { font-size: 3rem; }
+.fontsize-4rem { font-size: 4rem; }
+.fontsize-5rem { font-size: 5rem; }
+.fontsize-6rem { font-size: 6rem; }
+
+/* Font Sizes (em) */
+.fontsize-1em { font-size: 1em; }
+.fontsize-2em { font-size: 2em; }
+.fontsize-3em { font-size: 3em; }
+.fontsize-4em { font-size: 4em; }
+.fontsize-5em { font-size: 5em; }
+.fontsize-6em { font-size: 6em; }
+
+
+/*MARGIN SIZE*/
+
+/* Margin (rem) */
+.margin-1rem { margin: 1rem; }
+.margin-2rem { margin: 2rem; }
+.margin-3rem { margin: 3rem; }
+.margin-4rem { margin: 4rem; }
+.margin-5rem { margin: 5rem; }
+.margin-6rem { margin: 6rem; }
+
+/* Margin (em) */
+.margin-1em { margin: 1em; }
+.margin-2em { margin: 2em; }
+.margin-3em { margin: 3em; }
+.margin-4em { margin: 4em; }
+.margin-5em { margin: 5em; }
+.margin-6em { margin: 6em; }
+
+
+
+/*PADDINT SIZE*/
+
+/* Padding (rem) */
+.padding-1rem { padding: 1rem; }
+.padding-2rem { padding: 2rem; }
+.padding-3rem { padding: 3rem; }
+.padding-4rem { padding: 4rem; }
+.padding-5rem { padding: 5rem; }
+.padding-6rem { padding: 6rem; }
+
+
+/* Padding (em) */
+.padding-1em { padding: 1em; }
+.padding-2em { padding: 2em; }
+.padding-3em { padding: 3em; }
+.padding-4em { padding: 4em; }
+.padding-5em { padding: 5em; }
+.padding-6em { padding: 6em; }
+
+
+
+.bg{background-color: aliceblue;}
+.test{
+    font-size: 6rem;
+}
